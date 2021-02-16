@@ -1,4 +1,4 @@
-# snapshot
+# MPTC blockchain snapshot
 Blockchain Snapshot is available on this link: https://mnpostree.com/downloads/bootstrap.zip
 
 The file is updated every 2 days
